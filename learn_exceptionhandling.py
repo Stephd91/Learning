@@ -1,3 +1,12 @@
+# Ressource : https://realpython.com/python-exceptions/
+# TLDR : Here’s a quick recap of the various keywords used in Python to handle exceptions:
+#  raise : allows you to trigger any exception at any time.
+#  assert: enables you to verify if a certain condition is met and raise an exception if it isn’t.
+#  try: executes all indented code until Python encounters an exception.
+#  except: catches and handles the exceptions that Python encounters in the try clause.
+#  else: lets you code sections that run only when Python encounters no exceptions in the try clause.
+#  finally: enables you to execute sections of code that should always run, whether or not Python encountered an exception.
+
 ###########################################
 # 1) Use specific Exceptions
 ###########################################
