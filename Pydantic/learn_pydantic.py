@@ -3,8 +3,9 @@ Basic example showing how to read and validate data from a file with pytdantic.
 Source : https://www.youtube.com/watch?v=Vj-iU-8_xLs&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&index=27
 """
 import json
+from typing import List, Optional
+
 import pydantic
-from typing import Optional, List
 
 
 class ISBN10FormatError(Exception):
