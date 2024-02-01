@@ -20,7 +20,7 @@ except Exception as e:
     print(f"An unexpected error occured: {e}")
 
 ###########################################
-# 2) Implement error logging #####
+# 2) Implement error logging
 ###########################################
 import logging
 
@@ -37,14 +37,18 @@ except Exception as e:
 # 3) Define custom Exception classes
 ###########################################
 class CustomException(Exception):
-    pass
+    """Custom error that is raised."""
+
+    def __init__(self, message: str) -> None:
+        self.message = message
+        super().__init__(message)
 
 
 try:
     if True:
-        raise CustomException("Someting went wrong!")
+        raise CustomException(message="Someting went wrong!")
 except CustomException as ce:
-    print("this were we handle the custom exception when happening")
+    print(f"this were we handle the custom exception when happening: {ce}")
 
 ###########################################
 # 4) Handle Exceptions gracefully
@@ -56,7 +60,7 @@ except KeyError:
 except Exception as e:
     print(f"An unexpected error occured: {e}")
 else:
-    # code that exceutes if no exceptions are raised
+    # code that executes if no exceptions are raised
     print("world!")
 
 ###########################################
