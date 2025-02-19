@@ -1,3 +1,6 @@
+Cloud: 
+  - https://landscape.cncf.io/
+
 Git & other :
   - Gitflow : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
   - Semver : https://semver.org/spec/v2.0.0.html
