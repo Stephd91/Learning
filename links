@@ -1,0 +1,17 @@
+Git & other :
+  - Gitflow : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+  - Semver : https://semver.org/spec/v2.0.0.html
+
+Kubernetes : 
+  - tutorials : https://www.golinuxcloud.com/kubernetes-tutorial/
+  - Ensuring container health and reliability (Hands-On Guide to Kubernetes Probes) : https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-probes-liveness-readiness-and-startup-probes-ee047ebab504
+
+Helm :
+  - Helm charts (theory) : https://helm.sh/docs/topics/charts/#charts-and-versioning
+  - Helm charts (getting started) : https://helm.sh/docs/chart_template_guide/getting_started/
+
+Tools : 
+  - Tree generator (web app) : https://woochanleee.github.io/project-tree-generator/
+
+Best repos : 
+  - DevOps exercices : https://github.com/bregman-arie/devops-exercises?tab=readme-ov-file
