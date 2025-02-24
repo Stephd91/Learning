@@ -2,7 +2,8 @@ Cloud:
   - https://landscape.cncf.io/
 
 Git & other :
-  - Gitflow : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+  - Oneflow theory : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+  - Oneflow on OpenSource projects : https://www.endoflineblog.com/implementing-oneflow-on-github-bitbucket-and-gitlab
   - Semver : https://semver.org/spec/v2.0.0.html
 
 Kubernetes : 
