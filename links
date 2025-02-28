@@ -5,6 +5,7 @@ Git & other :
   - Oneflow theory : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
   - Oneflow on OpenSource projects : https://www.endoflineblog.com/implementing-oneflow-on-github-bitbucket-and-gitlab
   - Semver : https://semver.org/spec/v2.0.0.html
+  - CI/CD process : https://about.gitlab.com/blog/2020/12/10/basics-of-gitlab-ci-updated/
 
 Kubernetes : 
   - tutorials : https://www.golinuxcloud.com/kubernetes-tutorial/
