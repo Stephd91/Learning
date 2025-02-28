@@ -2,7 +2,7 @@ Cloud:
   - https://landscape.cncf.io/
 
 Git & other :
-  - Oneflow theory : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+  - ✅ Oneflow theory : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
   - Oneflow on OpenSource projects : https://www.endoflineblog.com/implementing-oneflow-on-github-bitbucket-and-gitlab
   - Semver : https://semver.org/spec/v2.0.0.html
   - CI/CD process : https://about.gitlab.com/blog/2020/12/10/basics-of-gitlab-ci-updated/
@@ -16,7 +16,7 @@ Helm :
   - Helm charts (getting started) : https://helm.sh/docs/chart_template_guide/getting_started/
 
 Tools : 
-  - Tree generator (web app) : https://woochanleee.github.io/project-tree-generator/
+  - ✅ Tree generator (web app) : https://woochanleee.github.io/project-tree-generator/
 
 Best repos : 
   - DevOps exercices : https://github.com/bregman-arie/devops-exercises?tab=readme-ov-file
