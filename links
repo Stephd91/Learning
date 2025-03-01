@@ -9,6 +9,7 @@ Git & other :
 
 Kubernetes : 
   - tutorials : https://www.golinuxcloud.com/kubernetes-tutorial/
+  - tutorials : https://github.com/NotHarshhaa/kubernetes-learning-path
   - Ensuring container health and reliability (Hands-On Guide to Kubernetes Probes) : https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-probes-liveness-readiness-and-startup-probes-ee047ebab504
 
 Helm :
